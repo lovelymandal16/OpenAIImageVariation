@@ -18,7 +18,7 @@ APIs: OpenAI's image generation API, Image Variation API
 
 ## Setup Instructions:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine with the name react-dalle-clone.
 2. Navigate to the react-dalle-clone directory and install the required dependencies by running npm install.
 3. Obtain API key from OpenAI portal and update the .env file with your API keys.
 4. Start the backend server by running npm run start:backend.
