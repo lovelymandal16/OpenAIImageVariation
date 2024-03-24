@@ -27,7 +27,7 @@ APIs: OpenAI's image generation API, Image Variation API
 
 ## Project structure 
 
-![Image gen](https://github.com/lovelymandal16/OpenAIImageVariation/assets/155715221/1de0a2d3-b662-4606-94b7-7d1df9bc9bcc)
+![img gen](https://github.com/lovelymandal16/OpenAIImageVariation/assets/155715221/9593c3f6-33b4-4f9d-801c-c4303a9c15ae)
 
 
 ## Demo 1 : 
